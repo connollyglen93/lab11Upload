@@ -1,0 +1,8 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Users\Glen\Desktop\playlab_crud-part4\conf\application.conf,C:\Users\Glen\Desktop\playlab_crud-part4\target\scala-2.11\classes\application.conf)
+[debug] 	(C:\Users\Glen\Desktop\playlab_crud-part4\conf\evolutions,C:\Users\Glen\Desktop\playlab_crud-part4\target\scala-2.11\classes\evolutions)
+[debug] 	(C:\Users\Glen\Desktop\playlab_crud-part4\conf\logback.xml,C:\Users\Glen\Desktop\playlab_crud-part4\target\scala-2.11\classes\logback.xml)
+[debug] 	(C:\Users\Glen\Desktop\playlab_crud-part4\conf\routes,C:\Users\Glen\Desktop\playlab_crud-part4\target\scala-2.11\classes\routes)
+[debug] 	(C:\Users\Glen\Desktop\playlab_crud-part4\conf\evolutions\default,C:\Users\Glen\Desktop\playlab_crud-part4\target\scala-2.11\classes\evolutions\default)
+[debug] 	(C:\Users\Glen\Desktop\playlab_crud-part4\conf\evolutions\default\1.sql,C:\Users\Glen\Desktop\playlab_crud-part4\target\scala-2.11\classes\evolutions\default\1.sql)
+[debug] 	(C:\Users\Glen\Desktop\playlab_crud-part4\conf\evolutions\default\2.sql,C:\Users\Glen\Desktop\playlab_crud-part4\target\scala-2.11\classes\evolutions\default\2.sql)
